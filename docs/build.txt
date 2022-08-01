@@ -45,7 +45,7 @@ Only releases 20180708 and later are supported.
 
 Notes:
 ======
-The recommended compiler and assembler at the time of writing (2009/05/19)
+The recommended compiler and assembler
 are OpenWatcom 1.8 and NASM 2.05.01.
 
 You may need to download the latest version of NASM and a C compiler
