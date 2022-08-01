@@ -1,0 +1,13 @@
+Begin3
+Title:          The Flix Kernel
+Version:        6.04.122+
+Code-date:   Sun 07/31/2022
+Description:    The Flix Kernel
+Keywords:       kernel, ZanvokDOS, DOS, MSDOS
+Author:         Zanvok Corporation (Gautham Nair, Suraj Varma)
+Maintained-by:  Zanvok Corporation
+Primary-site:   http://github.com/Zanvok-Corporation/ZanvokDOS/
+Alternate-site: http://sites.google.com/view/flixkernel/
+Platforms:      DOS, ZanvokDOS, DOSEMU (OpenWatcom/Borland/GCC-ia16, NASM, UPX)
+Copying-policy: GPL2
+End
